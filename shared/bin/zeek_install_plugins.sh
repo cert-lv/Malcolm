@@ -149,6 +149,7 @@ ZKG_GITHUB_URLS=(
   "https://github.com/SeisoLLC/zeek-kafka"
   "https://github.com/zeek/spicy-tftp|main"
   "https://github.com/zeek/spicy-zip|main"
+  "https://github.com/cert-lv/spicy-iec104"
 )
 
 for i in ${ZKG_GITHUB_URLS[@]}; do
